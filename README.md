@@ -14,4 +14,4 @@
 
 * 개발환경 
 
-구글 코랩 (Google’s Colaboratory) + 구글 드라이브
+   구글 코랩 (Google’s Colaboratory) + 구글 드라이브
